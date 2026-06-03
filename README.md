@@ -1,6 +1,3 @@
-# Artigo-renov-veis-bess-eletroposto
-Produzir um short-paper (4 páginas, padrão IEEE) relacionado a eletropostos e mobilidade elétrico:Integração Energética e Impactos na Rede Energias renováveis, armazenamento, Vehicle-to-Grid (V2G) e qualidade da energia.
-
 # Otimização Inteligente de Sistemas Híbridos FV+BESS+EV em Eletropostos Rodoviários
 
 **[English version below](#english-version)**
@@ -429,4 +426,3 @@ For the complete English documentation, please refer to the sections above (tran
 **Last Updated:** June 3, 2026  
 **Status:** Active Research · Actively Maintained  
 **Python:** 3.9+ · License: CC-BY-4.0
-
