@@ -1,0 +1,14 @@
+métrica,kWh
+chargers_uncontrolled_kwh,1005.0
+chargers_controlled_kwh,859.2238141583608
+commercial_kwh,2313.022766000937
+total_uncontrolled_kwh,3318.022766000937
+total_optimized_kwh,2176.799404648984
+bess_charged_kwh,0.00010203655805687191
+bess_discharged_kwh,0.00010188829570761807
+pv_available_kwh,1002.3090179805672
+pv_curtail_kwh,6.8618423219917934
+violation_uncontrolled_kwh,647.3294712803229
+violation_optimized_kwh,0.00020019714641604213
+violation_reduction_kwh,647.3292710831764
+chargers_energy_curtail_kwh,145.77618584163915
